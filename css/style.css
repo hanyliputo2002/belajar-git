@@ -1,0 +1,12 @@
+.section1{
+    background-color: blue;
+}
+.section1, h1{
+    color: white;
+}
+.section1, .paragraf{
+    color: red;
+}
+.section2{
+    background-color:yellow;
+}
